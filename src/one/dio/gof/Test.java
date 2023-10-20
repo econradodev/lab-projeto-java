@@ -19,7 +19,7 @@ public class Test {
 
         Comportamento entregaNacional = new EntregaNacional();
         Comportamento entregaInternacional = new EntregaInternacional();
-    //Sistema
+
         if (entrega.equalsIgnoreCase("NACIONAL")) {
             Correio correio = new Correio();
             Facade facade = new Facade();
