@@ -1,2 +1,3 @@
-# lab-padroes-projeto-java
-Primeiro projeto em Java puro simulando sistema de entregas
+## Projeto Java Puro
+✅Primeiro projeto em Java puro;
+📦 Simulação de sistema de entregas;
